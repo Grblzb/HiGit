@@ -1,3 +1,4 @@
 # HiGit
-Repo Test
-Some othertest for readme
+
+Some other test for readme
+Deleting string is a good thing
